@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-> Outline a brief description of your project.
+> BoomBikes assignment has a daily dataset on the Shared bikes based on various features like environmental,days,yr,holiday and seasonal settings.Use this data we have to understand the factors  affecting the demand of shared bikes and come up with a business plan to able to accelerate its revenue as soon as the ongoing lockdown due to corona pandemic comes to end.
 
 
 ## Table of Contents
